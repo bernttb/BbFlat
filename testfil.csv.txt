@@ -1,0 +1,3 @@
+ID	NAVN	KATEGORI
+10	Ola Nordmann	ARBL
+20	Per Pusling	IARB
